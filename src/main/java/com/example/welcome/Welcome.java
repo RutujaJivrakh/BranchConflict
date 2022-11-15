@@ -4,7 +4,9 @@ public class Welcome {
 
 	public String welcome()
 	{
-		int a,b;
+
+		String rutuja;
+
 		return null;
 		
 	}
